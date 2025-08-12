@@ -1,7 +1,13 @@
-## Hi there 👋
+## ¡Hola! 👋
 
 Soy desarrollador fullstack con una pasión por construir soluciones digitales que combinan rendimiento, diseño y escalabilidad. Me encanta explorar nuevas tecnologías, automatizar procesos y crear experiencias web que realmente marquen la diferencia.
 
+### 🚀 Tecnologías que uso
+- **Frontend:** React, JavaScript, HTML5, CSS
+- **Backend:** PHP, Java + Spring Boot, Python + Django
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Otros:** Git, REST APIs, Docker
+---
 ---
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
