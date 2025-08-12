@@ -7,8 +7,7 @@ Soy desarrollador fullstack con una pasión por construir soluciones digitales q
 - **Backend:** PHP, Java + Spring Boot, Python + Django
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
 - **Otros:** Git, REST APIs, Docker
----
----
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
