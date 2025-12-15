@@ -1,8 +1,13 @@
 ## ¡Hola! 👋
 
-Soy Christian R. Hardy, poseo formación en **Ciencias Económicas**, **Analisis de Datos** y **Programación Fullstack**. 
+Soy Christian R. Hardy, profesional con formación en **Ciencias Económicas**, **Análisis de Datos** y **Programación Fullstack**. 
 
-Me apasiona brindar soluciones digitales que combinan *rendimiento, diseño y escalabilidad*. Me encanta explorar nuevas tecnologías, automatizar procesos y crear experiencias web que realmente marquen la diferencia.
+Integro el mundo de los negocios con la tecnología, diseñando soluciones digitales que combinan rendimiento, diseño y escalabilidad.
+
+🔹 Me apasiona:
+ - Explorar nuevas tecnologías y aplicarlas en proyectos reales.
+- Automatizar procesos para lograr eficiencia y robustez.
+- Crear experiencias web que generen impacto y aporten valor tangible.
 
 ### 🚀 Tecnologías que uso
 - **Frontend:** React, JavaScript, HTML5, CSS
@@ -16,12 +21,10 @@ Me apasiona brindar soluciones digitales que combinan *rendimiento, diseño y es
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 ![Power BI]( https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
